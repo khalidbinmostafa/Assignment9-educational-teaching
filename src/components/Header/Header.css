@@ -1,0 +1,10 @@
+.header-text{
+    color: #ff5421;
+}
+.header-btn{
+    background-color: #ff5421;
+    color: antiquewhite;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
